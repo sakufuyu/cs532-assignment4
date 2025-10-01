@@ -45,13 +45,13 @@ python priority_queue.py
 
 ## Research Overview
 
-### [Algorithm Comparison between Heapsort and Randomized Quicksort]
+### [Algorithm Comparison between Heapsort and Randomized Quicksort](https://github.com/sakufuyu/cs532-assignment4/blob/main/heapsort/CS532_Assignment4_Heapsort.pdf)
 - Compares heapsort vs randomized quicksort performance across different input sizes (100-10,000 elements)
 - Tests three data distributions: random, sorted, and reverse sorted arrays
 - Measures execution time for each algorithm-distribution combination
 - Provides performance analysis table showing time complexity behavior in practice
 
-### [Priority Queue Testing]
+### [Priority Queue Testing](https://github.com/sakufuyu/cs532-assignment4/blob/main/priority_queue/CS532_Assignment4_PriorityQueue.pdf)
 - Tests basic operations: insertion, extraction, and empty state checking
 - Validates priority modification operations (decrease_key for min-heap, increase_key for max-heap)
 - Performance benchmarking across queue sizes (1,000-100,000 elements)
